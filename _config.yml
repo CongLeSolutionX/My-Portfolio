@@ -1,10 +1,10 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Cong's Porforlio
+subtitle: My Portfolio Jekyll Theme
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  This website includes a collection of my projects, resume, and my experieces in technology.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://conglesolutionx.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/My-Portfolio" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -25,12 +25,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: Cong Le
+author_bio: Hi, my name is Cong Le. I built this site using devlopr-jekyll :D
+author_email: "longchike@gmail.com"
+author_location: USA
+author_website_url: "CongLeSolutionX.tech"
+typewrite-text: This website is a showcase of my projects
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -71,16 +71,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username:  #tba
+github_username:  #tba
+facebook_username:  #tba
+linkedin_username:  #tba
+behance_username:  #tba
+instagram_username:  #tba
+medium_username:  #tba
+telegram_username:  #tba
+dribbble_username:  #tba
+flickr_username:  #tba
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -95,7 +95,7 @@ mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50b
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: longchike@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
