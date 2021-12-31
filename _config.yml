@@ -31,7 +31,7 @@ author_email: "longchike@gmail.com"
 author_location: USA
 author_website_url: "CongLeSolutionX.tech"
 typewrite-text: This website is a showcase of my projects
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
