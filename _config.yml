@@ -1,4 +1,4 @@
-title: Cong's Porforlio
+title: CongLeSolutionX
 subtitle: My Portfolio Jekyll Theme
 description: >-
   This website includes a collection of my projects, resume, and my experieces
@@ -19,7 +19,7 @@ urls:
 author_logo: profile.png
 author: Cong Le
 author_bio: 'Hi, my name is Cong Le. I built this site using devlopr-jekyll :D'
-author_email: longchike@gmail.com
+author_email: congle@swiftandbeyond.com 
 author_location: USA
 author_website_url: CongLeSolutionX.tech
 typewrite-text: This website is a showcase of my projects
