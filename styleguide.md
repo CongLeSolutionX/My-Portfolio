@@ -2,6 +2,7 @@
 title: Styleguide
 layout: page
 permalink: /styleguide/
+published: false
 ---
 
 
@@ -203,5 +204,3 @@ permalink: /styleguide/
 <p><input type="text" placeholder="I'm an input field!" /></p>
 
 <hr />
-
-
