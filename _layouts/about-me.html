@@ -108,11 +108,11 @@ layout: default
     </div>
     {% endif %}
 
-    <!-- ### Projects ### -->
-    {% if site.show_author_project_details == true %}
+    <!-- ### Projects #### -->
+    <!-- {% if site.show_author_project_details == true %}
     <div id="author_projects" class="card">
       <h1 class="card-title">Projects</h1>
-      <br />
+      <br /> -->
       <!-- {% for project in site.author_project_details %} {% if project.visibility
       == true %}
       <div class="row" id="project-card">
@@ -136,7 +136,7 @@ layout: default
       <br />
       {% endif %} {% endfor %}
     </div> -->
-    {% endif %}
+    <!-- {% endif %} -->
     <!-- ### Work Experience ### -->
     {% if site.show_author_work_experiences == true %}
     <div class="card">
@@ -145,13 +145,13 @@ layout: default
       {% for exp in site.author_work_experiences %}
       {% if exp.visibility == true %}
       <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-4">
           <img
             src="{{site.url}}{{site.baseurl}}/assets/img/{{ exp.company_logo }}"
             class="company-logo"
           />
         </div>
-        <div class="col-lg-8">
+        <div class="col-lg-7">
           <h4 class="experience-title">{{ exp.designation }}</h4>
           <h6 class="experience-info">{{ exp.company_name}}</h6>
           <p class="experience-desc">{{ exp.description }}</p>
@@ -170,7 +170,7 @@ layout: default
       {% for detail in site.author_education_details %}
       {% if detail.visibility == true %}
       <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-4">
           <img
             src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}"
             class="company-logo"
