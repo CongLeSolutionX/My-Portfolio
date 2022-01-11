@@ -3,7 +3,7 @@ subtitle: My Portfolio Jekyll Theme
 description: >-
   This website includes a collection of my projects, resume, and my experieces
   in technology.
-url: 'https://CongLeSolutionX.tech'
+url: 'CongLeSolutionX.tech'
 baseurl: ''
 urls:
   - text: About
