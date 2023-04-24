@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.2', '>= 4.1.1'
+gem 'jekyll', '~> 4.3'
 gem 'bundler', '~> 2.2.29'
 gem 'kramdown'
 gem 'rack-jekyll'
@@ -16,12 +16,12 @@ gem 'puma'
 group :jekyll_plugins do
     # gem 'devlopr', '~> 0.4.5'
     gem 'jgd', '~> 1.12'
-    gem 'jekyll-feed', '~> 0.15.1'
+    gem 'jekyll-feed', '~> 0.17.0'
     gem 'jekyll-paginate', '~> 1.1.0'
     gem 'jekyll-gist', '~> 1.5.0'
-    gem 'jekyll-seo-tag', '~> 2.7.1'
+    gem 'jekyll-seo-tag', '~> 2.8.0'
     gem 'jekyll-sitemap', '~> 1.4.0'
-    gem 'jekyll-admin', '~> 0.11.0'
+    gem 'jekyll-admin', '~> 0.11.1'
 end
 
 
@@ -34,4 +34,4 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
